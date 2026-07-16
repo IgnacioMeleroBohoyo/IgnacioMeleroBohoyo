@@ -1,16 +1,27 @@
-## Hi there 👋
+# ¡Hola! Soy Ignacio Melero 👋
 
-<!--
-**IgnacioMeleroBohoyo/IgnacioMeleroBohoyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador de Aplicaciones Multiplataforma (DAM) enfocado en el desarrollo Backend con **Java** y la gestión de bases de datos con **SQL**. Me apasiona crear código limpio, estructurado y encontrar soluciones eficientes a problemas complejos.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologías y Herramientas
+
+* **Lenguajes de Programación:** Java, SQL (puedes añadir aquí otros si has dado C#, Kotlin o Python)
+* **Bases de Datos:** MySQL, SQLite / PostgreSQL (añade las que hayas usado en clase)
+* **Herramientas y Entornos:** Git, GitHub, IntelliJ IDEA, Eclipse
+
+---
+
+### 📁 Proyectos Destacados
+
+* **[Nombre de tu mejor Proyecto]** - *Breve descripción de 1 línea de lo que hace.*
+* **[Segundo Proyecto importante]** - *Breve descripción de 1 línea de lo que hace.*
+
+*(Nota: En cuanto subas tus proyectos, cambiaremos estos textos por los nombres reales y les pondremos el enlace directo)*
+
+---
+
+### 📬 ¿Cómo contactar conmigo?
+
+* **LinkedIn:** [Tu Perfil de LinkedIn](https://www.linkedin.com/in/ignacio-melero-bohoyo-503258416/)
+* **Correo electrónico:** (Puedes poner aquí tu email de contacto si quieres)
