@@ -14,14 +14,14 @@ Desarrollador de Aplicaciones Multiplataforma (DAM) enfocado en el desarrollo Ba
 
 ### 📁 Proyectos Destacados
 
-* **[Nombre de tu mejor Proyecto]** - *Breve descripción de 1 línea de lo que hace.*
-* **[Segundo Proyecto importante]** - *Breve descripción de 1 línea de lo que hace.*
+[Chambita]: TFG del grado superio donde creamos tanto pagina web como aplicacion para dispositivos moviles con el fin de encontrar pracitcas.
+[Pagina web administración escrchc] Desarrollé tanto la pagina web que se puede ver online en google y su base de datos y manejo.
 
-*(Nota: En cuanto subas tus proyectos, cambiaremos estos textos por los nombres reales y les pondremos el enlace directo)*
+
 
 ---
 
 ### 📬 ¿Cómo contactar conmigo?
 
-* **LinkedIn:** [Tu Perfil de LinkedIn](https://www.linkedin.com/in/ignacio-melero-bohoyo-503258416/)
-* **Correo electrónico:** (Puedes poner aquí tu email de contacto si quieres)
+* **LinkedIn:** https://www.linkedin.com/in/ignacio-melero-bohoyo-503258416/
+* **Correo electrónico:i ignaciomelerobohoy@gmail.com
