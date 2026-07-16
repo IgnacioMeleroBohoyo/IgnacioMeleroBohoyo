@@ -25,3 +25,5 @@ Proyectos Destacados
 
 * **LinkedIn:** https://www.linkedin.com/in/ignacio-melero-bohoyo-503258416/
 * **Correo electrónico:i ignaciomelerobohoy@gmail.com
+- una pequeña muestra de un portafolio creado por mi con todos los conocimientos apredidos en clase y algo mas estudiado por mi cuenta:
+- 
